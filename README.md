@@ -25,6 +25,6 @@ Les champs sont séparés en quatre sections :
 - Des informations nutritionnelles : quantité en grammes d’un nutriment pour 100 grammes du produit.
 
 ## Livrables : 
-- Un notebook du nettoyage des données : 
-- Un notebook d’exploration comportant une analyse univariée, multivariée, une réduction dimensionnelle, ainsi que les différentes questions de recherches associées : 
-- Une présentation, à utiliser en support pour la soutenance ; 
+- Un notebook du nettoyage des données : Dabidin_Keshika_1_notebook_nettoyage_122022.ipynb
+- Un notebook d’exploration comportant une analyse univariée, multivariée, une réduction dimensionnelle, ainsi que les différentes questions de recherches associées : Dabidin_Keshika_2_notebook_analyse_122022.ipynb
+- Une présentation, à utiliser en support pour la soutenance : Dabidin_Keshika_3_presentation_122022.pdf.
