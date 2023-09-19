@@ -1,2 +1,13 @@
-# OC_2_Concevez_une_application_au_service_de_la_sante_publique
-Le projet 2 du parcours Data Scientist sur Openclassrooms.
+# Projet 2 Openclassrooms : Concevez une application au service de la santé publique
+
+## Outils et compétences
+
+
+## Description générale du projet 
+
+### (a) Présentation du contexte d'étude
+
+
+
+### (b) Présentation des données
+
