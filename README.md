@@ -1,5 +1,5 @@
 # Projet 2 Openclassrooms : Concevez une application au service de la santé publique
-
+#### Librairies data science , Analyse Exploratoire des Données
 ## Outils et compétences
 
 - Effectuer une analyse statistique multivariée
@@ -23,3 +23,8 @@ Les champs sont séparés en quatre sections :
 - Un ensemble de tags : catégorie du produit, localisation, origine, etc.
 - Les ingrédients composant les produits et leurs additifs éventuels.
 - Des informations nutritionnelles : quantité en grammes d’un nutriment pour 100 grammes du produit.
+
+## Livrables : 
+- Un notebook du nettoyage des données : 
+- Un notebook d’exploration comportant une analyse univariée, multivariée, une réduction dimensionnelle, ainsi que les différentes questions de recherches associées : 
+- Une présentation, à utiliser en support pour la soutenance ; 
